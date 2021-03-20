@@ -1,2 +1,2 @@
-# PRO-C43-Tick-Tock
-tick tiki tockkk
+# p5.play-boilerplate
+Boiler plate for p5.play
